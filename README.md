@@ -1,0 +1,1 @@
+# 22.4-DDL-and-Schema-Design-Exercise
